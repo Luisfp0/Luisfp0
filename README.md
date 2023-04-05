@@ -19,6 +19,6 @@
 </div>
 
 <div align="right" style="display: inline_block">
-  <a href="https://im.ge/i/IYewz8](https://twitter.com/Luisitus16"><img src="https://i.im.ge/2023/04/05/IYewz8.Twitter-logo-svg.png" alt="Twitter-logo.svg" border-right="15px" width="32"></a>
+  <a href="https://twitter.com/Luisitus16"><img src="https://i.im.ge/2023/04/05/IYewz8.Twitter-logo-svg.png" alt="Twitter-logo.svg" border-right="15px" width="31"></a>
   <a href="https://www.linkedin.com/in/luis-fernando-de-paulo/"><img src="https://i.im.ge/2023/04/03/IPNupa.174857.png" alt="174857" border="0" width="27"></a>
 </div>
