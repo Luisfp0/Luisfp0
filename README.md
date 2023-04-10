@@ -6,8 +6,8 @@
 
 <div>
   <a href="[https://github.com/Luisfp0](https://github.com/Luisfp0)"> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luisfp0&show_icons=true&theme=dark&count_private=true&hide=issues,contribs"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisfp0&layout=compact&langs_count=16&theme=dark"/>
+  <img height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Luisfp0&show_icons=true&theme=dark&count_private=true&hide=issues,contribs"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luisfp0&theme=dark&line_height=30"/>
 </div>
 
 ##
