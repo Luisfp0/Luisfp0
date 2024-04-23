@@ -1,4 +1,4 @@
-<h3>Ola, me chamo Luís Fernando, seja muito bem vindo(a) ao meu perfil do GitHub! 🖖 </h1>
+<h3>Hello, my name is Luís Fernando, welcome to my GitHub profile! 🖖</h3>
 
 ##
 
