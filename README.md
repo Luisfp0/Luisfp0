@@ -1,13 +1,25 @@
-<h3>Hello, my name is Luís Fernando, welcome to my GitHub profile! 🖖</h3>
-
-##
-
-<h4> 📚 GitHub Stats: </h4>
-
-<div>
-  <a href="[https://github.com/Luisfp0](https://https://github.com/Luisfp0)"> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Luisfp0&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisfp0&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
-
-##
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="400px" max-width="400px" width="400px" align="right">
+<p><h3>Hello, my name is Luís Fernando, welcome to my GitHub profile! 🖖</h3>
+</p>
+<p align="left"> 
+  I'm a Full Stack developer passionate about creating innovative and efficient solutions. My expertise covers both front-end and back-end development, with a special focus on React and React Native.
+</p>
+<p align="left">
+  🦄 Languages: JavaScript, TypeScript and a little of Python.
+</p>
+<p align="left">
+  💼 Tools: React, React Native, Next.js, Node.js, Docker, Supabase, Tailwind CSS and more.
+</p>
+<p align="left">
+  💌 I'm always open to new challenges and collaboration opportunities. If you have an interesting project or are looking for a dedicated Full Stack developer, I'd love to chat! : ⤵️
+</p>
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=luis.oliveirabr1@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/luis-fernando-de-paulo/)" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=wa.me/5562993222660" alt="WhatsApp"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=[LINK-DO-SEU-INSTAGRAM](https://www.instagram.com/n_andooo/)" alt="Instagram"/></a>
+</p>
