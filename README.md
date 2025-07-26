@@ -2,7 +2,7 @@
 <p><h3>Hello, my name is Luís Fernando, welcome to my GitHub profile! 🖖</h3>
 </p>
 <p align="left"> 
-  I'm a Full Stack developer passionate about creating innovative and efficient solutions. My expertise covers both front-end and back-end development, with a special focus on React and React Native.
+  I'm a Front End developer passionate about creating innovative and efficient solutions. My expertise covers monst front-end and a little of back-end development, with a special focus on React and React Native.
 </p>
 <p align="left">
   🦄 Languages: JavaScript, TypeScript and a little of Python.
