@@ -11,7 +11,7 @@
   💼 Tools: React, React Native, Next.js, Node.js, Docker, Supabase, Tailwind CSS and more.
 </p>
 <p align="left">
-  💌 I'm always open to new challenges and collaboration opportunities. If you have an interesting project or are looking for a dedicated Full Stack developer, I'd love to chat! : ⤵️
+  💌 I'm always open to new challenges and collaboration opportunities. If you have an interesting project or are looking for a dedicated Front End developer, I'd love to chat! : ⤵️
 </p>
 <p align="left">
   <a target="_blank" href="mailto:luis.oliveirabr1@gmail.com" title="Gmail">
