@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="400px" max-width="400px" width="400px" align="right">
-<p><h3>Hello, my name is Luís Fernando, welcome to my GitHub profile! 🖖</h3>
+<p><h3>Hello, my name is Luís Fernando, welcome to my GitHub profile! Oi aquui 🖖</h3>
 </p>
 <p align="left"> 
   I'm a Front End developer passionate about creating innovative and efficient solutions. My expertise covers monst front-end and a little of back-end development, with a special focus on React and React Native.
